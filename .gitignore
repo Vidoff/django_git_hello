@@ -1,0 +1,8 @@
+__pycashe__/
+*.pyc
+.idea
+*.tmp
+.DS_Store
+Thumbs.db
+*.lock
+*~
